@@ -25,7 +25,7 @@
     "@react-icons/all-files": "^4.1.0",
     "@sindresorhus/slugify": "^1.1.0",
     "babel-plugin-react-icons": "^0.1.1",
-    "gatsby": "next",
+    "gatsby": "^3.4.0",
     "gatsby-plugin-gatsby-cloud": "next",
     "gatsby-plugin-image": "next",
     "gatsby-plugin-react-helmet": "^4.3.0",
